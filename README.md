@@ -11,3 +11,5 @@ The coordinates of the Entrance E : (0,3)
 '1' : Non accessible route
 
 The goal is to find the exit/exits from the labyrinth.
+
+Worked with: Java, Eclipse Studio.
